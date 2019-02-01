@@ -1,0 +1,11 @@
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\Tuple\Tuple\bin\Debug\netcoreapp2.1\Tuple.deps.json
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\Tuple\Tuple\bin\Debug\netcoreapp2.1\Tuple.runtimeconfig.json
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\Tuple\Tuple\bin\Debug\netcoreapp2.1\Tuple.runtimeconfig.dev.json
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\Tuple\Tuple\bin\Debug\netcoreapp2.1\Tuple.dll
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\Tuple\Tuple\bin\Debug\netcoreapp2.1\Tuple.pdb
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\Tuple\Tuple\obj\Debug\netcoreapp2.1\Tuple.csprojAssemblyReference.cache
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\Tuple\Tuple\obj\Debug\netcoreapp2.1\Tuple.csproj.CoreCompileInputs.cache
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\Tuple\Tuple\obj\Debug\netcoreapp2.1\Tuple.AssemblyInfoInputs.cache
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\Tuple\Tuple\obj\Debug\netcoreapp2.1\Tuple.AssemblyInfo.cs
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\Tuple\Tuple\obj\Debug\netcoreapp2.1\Tuple.dll
+\\svrwfileserver\perfiles\octavio.augusto\Documents\Visual Studio 2017\Projects\Tuple\Tuple\obj\Debug\netcoreapp2.1\Tuple.pdb
